@@ -8,6 +8,8 @@
 
 ### 博客文章列表： ###
 
++ [京东赛回顾——比赛历程及赛后思考](https://yunaqiu.github.io/2018/08/06/jdata2018/)
+
 + [阿里妈妈广告转化率预测初赛回顾](https://yunaqiu.github.io/2018/04/23/alimama-preliminary/)
 
 + [挖掘笔记：Logloss损失下探索线上数据集的正例比例](https://yunaqiu.github.io/2018/04/14/find-one-ratio-in-LB/)
