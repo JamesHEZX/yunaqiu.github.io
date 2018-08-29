@@ -7,7 +7,7 @@ author:     "Yuna"
 header-img: "img/home-bg.jpg"
 tags:
     - 数据挖掘
-    - 天池竞赛
+    - 算法竞赛
     - 挖掘笔记
 ---
 
