@@ -8,6 +8,8 @@
 
 ### 博客文章列表： ###
 
++ [OGeek算法挑战赛的各种零碎总结](https://yunaqiu.github.io/2018/12/04/ogeek/)
+
 + [科大讯飞营销算法大赛比赛历程](https://yunaqiu.github.io/2018/10/20/kedaxunfei/)
 
 + [京东赛回顾——比赛历程及赛后思考](https://yunaqiu.github.io/2018/08/06/jdata2018/)
