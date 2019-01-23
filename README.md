@@ -8,7 +8,7 @@
 
 ### 博客文章列表： ###
 
-+ [OGeek算法挑战赛的各种零碎总结](https://yunaqiu.github.io/2018/12/04/ogeek/)
++ [OGeek算法挑战赛的各种零碎总结](https://yunaqiu.github.io/2019/01/04/ogeek/)
 
 + [科大讯飞营销算法大赛比赛历程](https://yunaqiu.github.io/2018/10/20/kedaxunfei/)
 
